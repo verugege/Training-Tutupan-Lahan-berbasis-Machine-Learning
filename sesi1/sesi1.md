@@ -18,3 +18,7 @@ piksel mangrove akan memiliwi warna orange kemerahan sehingga sangat mudah dibed
 output :
 
 <img width="1395" height="670" alt="image" src="https://github.com/user-attachments/assets/3b5862ca-949f-4974-946b-07108ea6c4c5" />
+
+
+- sumber informasi :
+<img width="1236" height="636" alt="image" src="https://github.com/user-attachments/assets/d6d84111-36c7-4991-84fb-ced384c48e50" />
